@@ -1,3 +1,5 @@
+'use strict';
+
 // array for todo list
 const todoList = [
   {
@@ -28,4 +30,3 @@ const todoList = [
 ];
 
 // add your code here
-// jees
